@@ -1,16 +1,14 @@
-# cipher
+# CipherSchools Internship Assignment 1
 
-A new Flutter project.
+Saurabh Dhingra
+saurabh20work@gmail.com
 
-## Getting Started
+Instagram Blog - https://www.instagram.com/captainrogers20/
 
-This project is a starting point for a Flutter application.
+Google Developer Profile - https://play.google.com/store/apps/details?id=com.saurabh.journo
 
-A few resources to get you started if this is your first Flutter project:
+Hashnode - https://saurabhdhingraa.hashnode.dev/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+LinkedIn - https://www.linkedin.com/in/saurabhdhingraa/
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
